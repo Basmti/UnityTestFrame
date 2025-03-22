@@ -7549,3 +7549,5 @@ Code/Tutorial[[:space:]]Game/Library/SourceAssetDB filter=lfs diff=lfs merge=lfs
 Code/Tutorial[[:space:]]Game/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
 Code/Tutorial[[:space:]]Game/Library/Artifacts/2e/2ee507f103fe0abfafa3dcb5cdb84813 filter=lfs diff=lfs merge=lfs -text
 Code/Tutorial[[:space:]]Game/Library/Artifacts/10/108303c2fc1fa4ed60624f0cdaeebd03 filter=lfs diff=lfs merge=lfs -text
+Code/Tutorial[[:space:]]Game/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Code/Tutorial[[:space:]]Game/Library/SourceAssetDB filter=lfs diff=lfs merge=lfs -text
